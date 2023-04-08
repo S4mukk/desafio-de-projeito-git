@@ -3,4 +3,5 @@ Desafio de projeto git/github
 
 ## Links úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/getting-started/)
-n/[Link para download do Git Bash](https://git-scm.com/download/win)
+
+[Link para download do Git Bash](https://git-scm.com/download/win)
